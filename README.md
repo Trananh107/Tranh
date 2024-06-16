@@ -5,3 +5,10 @@ My personal repository
  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+# about-me
+I'm Tranh, maybe you might recognize me as avatar
+| Rank | Book about investing |
+|-----:|---------------|
+|     1|       The Intelligent Investor        |
+|     2|        Security Analysis       |
+|     3|            Common Stocks and Uncommon Profits   |
