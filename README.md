@@ -14,4 +14,4 @@ I'm Tranh, maybe you might recognize me as avatar
 |     2|        Security Analysis       |
 |     3|            Common Stocks and Uncommon Profits   |
 
-I'm interested in learning about Generative AI and CrytoCurrency
+🤖 I'm interested in learning about Generative AI and CrytoCurrency 
