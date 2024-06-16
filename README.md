@@ -7,6 +7,7 @@ My personal repository
 </picture>
 # about-me
 I'm Tranh, maybe you might recognize me as avatar
+
 | Rank | Book about investing |
 |-----:|---------------|
 |     1|       The Intelligent Investor        |
